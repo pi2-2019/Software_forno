@@ -1,0 +1,8 @@
+# Arduino IDE Keywords for Syntax Coloring
+ 
+# Keyword for class DigitalPIDForno 
+MAX6675_PI2              KEYWORD1
+ 
+# Keyword for class functions
+Sensoriamento_MAX6675    KEYWORD2
+lerCelsius               KEYWORD2

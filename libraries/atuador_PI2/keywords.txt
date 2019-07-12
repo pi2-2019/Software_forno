@@ -1,0 +1,8 @@
+# Arduino IDE Keywords for Syntax Coloring
+ 
+# Keyword for class DigitalPIDForno 
+atuador_PI2           KEYWORD1
+ 
+# Keyword for class functions
+Triac_PI2           KEYWORD2
+ControlePotencia    KEYWORD2
